@@ -1,0 +1,11 @@
+{
+  "name": "com.hakisheep.mm-fsm",
+  "version": "1.0.0",
+  "displayName": "Mm FSM",
+  "description": "UpdateFsm and ChainedFsm with editor generators and runtime debug overlay",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/Haki-sheep/MmCSharp-FSM",
+  "author": {
+    "name": "Haki-sheep"
+  }
+}
