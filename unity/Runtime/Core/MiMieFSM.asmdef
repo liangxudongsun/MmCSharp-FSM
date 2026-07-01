@@ -1,16 +1,14 @@
 {
-    "name": "MiMieFSM.Unity",
-    "rootNamespace": "MiMieFSM.Unity",
+    "name": "MiMieFSM",
+    "rootNamespace": "MiMieFSM",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": true,
-    "precompiledReferences": [
-        "MiMieFSM.dll"
-    ],
+    "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": [],
-    "noEngineReferences": false
+    "noEngineReferences": true
 }

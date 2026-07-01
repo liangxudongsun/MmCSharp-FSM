@@ -1,12 +1,10 @@
 {
-    "name": "MiMieFSM.Editor",
-    "rootNamespace": "MiMieFSM.Editor",
+    "name": "MiMieFSM.Unity",
+    "rootNamespace": "MiMieFSM.Unity",
     "references": [
-        "MiMieFSM.Unity"
+        "MiMieFSM"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
