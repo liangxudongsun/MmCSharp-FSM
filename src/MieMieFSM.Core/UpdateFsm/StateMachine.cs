@@ -44,6 +44,11 @@ namespace MiMieFSM.UpdateFsm
         public string CurrentStateName => currentStateBase?.StateName ?? "None";
 
         /// <summary>
+        /// 黑板数据
+        /// </summary>
+        public IFsmBlackboard Blackboard => blackboard;
+
+        /// <summary>
         /// 初始化状态机
         /// </summary>
         public void Init(IFsmTickScheduler tickScheduler, IFsmBlackboard blackboard = null)
